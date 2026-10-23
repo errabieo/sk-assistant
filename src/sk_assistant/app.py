@@ -2,7 +2,6 @@ from fastapi import FastAPI
 
 from sk_assistant.schemas import AskRequest, AskResponse
 
-
 app = FastAPI()
 
 
